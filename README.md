@@ -39,7 +39,7 @@ You can directly load the above weights for feature extraction, linear evaluatio
 ```bibtex
 @inproceedings{chen2025backdooring,
   title={Backdooring Self-Supervised Contrastive Learning by Noisy Alignment},
-  author={Tuo Chen, Jie Gui, Minjing Dong, Lanting Fang, Ju Jia, Jian Liu},
+  author={Tuo Chen, Jie Gui, Minjing Dong, Ju Jia, Lanting Fang, Jian Liu},
   journal={International Conference on Computer Vision (ICCV)},
   year={2025}
 }
