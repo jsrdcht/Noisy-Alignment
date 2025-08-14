@@ -40,7 +40,7 @@ You can directly load the above weights for feature extraction, linear evaluatio
 @inproceedings{chen2025backdooring,
   title={Backdooring Self-Supervised Contrastive Learning by Noisy Alignment},
   author={Tuo Chen, Jie Gui, Minjing Dong, Ju Jia, Lanting Fang, Jian Liu},
-  journal={International Conference on Computer Vision (ICCV)},
+  booktitle={International Conference on Computer Vision},
   year={2025}
 }
 ```
